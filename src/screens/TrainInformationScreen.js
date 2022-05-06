@@ -89,7 +89,7 @@ export default function TrainInformationScreen({ navigation, route }) {
           <View style={styles.dottedLine} />
 
           <TouchableOpacity onPress={() => navigation.navigate('RouteScreen', { booking })}>
-            <Text style={styles.manageBooking}>Manage booking</Text>
+            <Text style={styles.manageBooking}>Your Journey</Text>
           </TouchableOpacity>
 
           <Image
