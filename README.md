@@ -1,4 +1,5 @@
-Setting up the development environment
+#Setting up the development environment
+
 This page will help you install and build your first React Native app.
 If you are new to mobile development, the easiest way to get started is with Expo CLI. Expo is a set of tools built around React Native.
 If you are already familiar with mobile development, you may want to use React Native CLI. It requires Xcode or Android Studio to get started. If you already have one of these tools installed, you should be able to get up and running within a few minutes. If they are not installed, you should expect to spend about an hour installing and configuring them.
