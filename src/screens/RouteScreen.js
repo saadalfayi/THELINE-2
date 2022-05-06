@@ -205,7 +205,7 @@ export default function RouteScreen({ navigation, route }) {
         <View style={{ marginTop: 100 }}>
           <Button
             onpress={() => navigation.navigate("TicketScreen")}
-            title="Manage Bookings"
+            title="all Bookings"
           />
         </View>
       </ScrollView>
